@@ -1,1 +1,4 @@
-# portofolio masih dalam perkembangan (⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ
+/project-folder
+│
+├── index.html
+└── style.css
